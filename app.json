@@ -6,7 +6,7 @@
     },
     "env": {
         "SPOTIFY_CLIENT_ID": {
-            "required": true
+            "required": false
         },
         "SPOTIFY_REFRESH_TOKEN": {
             "required": true
